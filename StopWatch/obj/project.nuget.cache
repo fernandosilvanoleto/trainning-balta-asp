@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHnNi2JgHpuZa7M2NRjWSs33MOKNZBwZ3e/PeqglyfObQ5gBAfo3IMiMVZJCYcqVTrDVQZrWmfvSTlwqJD1E2w==",
+  "success": true,
+  "projectFilePath": "G:\\www\\balta_io\\StopWatch\\StopWatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+G:\www\balta_io\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+G:\www\balta_io\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+G:\www\balta_io\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+G:\www\balta_io\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+G:\www\balta_io\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+G:\www\balta_io\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+G:\www\balta_io\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache

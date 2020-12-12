@@ -1,0 +1,13 @@
+G:\www\balta_io\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+G:\www\balta_io\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+G:\www\balta_io\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+G:\www\balta_io\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+G:\www\balta_io\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+G:\www\balta_io\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+G:\www\balta_io\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
