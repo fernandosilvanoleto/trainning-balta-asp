@@ -1,0 +1,13 @@
+G:\www\trainning-balta-asp\TextoEditor\bin\Debug\netcoreapp3.1\TextoEditor.exe
+G:\www\trainning-balta-asp\TextoEditor\bin\Debug\netcoreapp3.1\TextoEditor.deps.json
+G:\www\trainning-balta-asp\TextoEditor\bin\Debug\netcoreapp3.1\TextoEditor.runtimeconfig.json
+G:\www\trainning-balta-asp\TextoEditor\bin\Debug\netcoreapp3.1\TextoEditor.runtimeconfig.dev.json
+G:\www\trainning-balta-asp\TextoEditor\bin\Debug\netcoreapp3.1\TextoEditor.dll
+G:\www\trainning-balta-asp\TextoEditor\bin\Debug\netcoreapp3.1\TextoEditor.pdb
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.csprojAssemblyReference.cache
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.AssemblyInfoInputs.cache
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.AssemblyInfo.cs
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.csproj.CoreCompileInputs.cache
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.dll
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.pdb
+G:\www\trainning-balta-asp\TextoEditor\obj\Debug\netcoreapp3.1\TextoEditor.genruntimeconfig.cache
