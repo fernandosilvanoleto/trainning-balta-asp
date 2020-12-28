@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkQDIcLbTioEWoDp63JfJ+aOdsI3C374Egh66WmHo1WMAxyAFjTSuRMExrYVeDxpB/60NpeMYMF+JZaoS9hlIw==",
+  "success": true,
+  "projectFilePath": "G:\\www\\trainning-balta-asp\\Exceptions\\Exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

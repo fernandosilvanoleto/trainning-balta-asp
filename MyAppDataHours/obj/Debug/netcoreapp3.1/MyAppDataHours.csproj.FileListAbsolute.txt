@@ -1,0 +1,13 @@
+G:\www\trainning-balta-asp\MyAppDataHours\bin\Debug\netcoreapp3.1\MyAppDataHours.exe
+G:\www\trainning-balta-asp\MyAppDataHours\bin\Debug\netcoreapp3.1\MyAppDataHours.deps.json
+G:\www\trainning-balta-asp\MyAppDataHours\bin\Debug\netcoreapp3.1\MyAppDataHours.runtimeconfig.json
+G:\www\trainning-balta-asp\MyAppDataHours\bin\Debug\netcoreapp3.1\MyAppDataHours.runtimeconfig.dev.json
+G:\www\trainning-balta-asp\MyAppDataHours\bin\Debug\netcoreapp3.1\MyAppDataHours.dll
+G:\www\trainning-balta-asp\MyAppDataHours\bin\Debug\netcoreapp3.1\MyAppDataHours.pdb
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.csprojAssemblyReference.cache
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.AssemblyInfoInputs.cache
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.AssemblyInfo.cs
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.csproj.CoreCompileInputs.cache
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.dll
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.pdb
+G:\www\trainning-balta-asp\MyAppDataHours\obj\Debug\netcoreapp3.1\MyAppDataHours.genruntimeconfig.cache

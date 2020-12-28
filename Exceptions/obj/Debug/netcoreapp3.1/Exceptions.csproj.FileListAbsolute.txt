@@ -1,0 +1,13 @@
+G:\www\trainning-balta-asp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+G:\www\trainning-balta-asp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+G:\www\trainning-balta-asp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+G:\www\trainning-balta-asp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+G:\www\trainning-balta-asp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+G:\www\trainning-balta-asp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csprojAssemblyReference.cache
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+G:\www\trainning-balta-asp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

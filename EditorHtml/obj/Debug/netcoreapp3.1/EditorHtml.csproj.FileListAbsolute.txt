@@ -1,0 +1,13 @@
+G:\www\trainning-balta-asp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+G:\www\trainning-balta-asp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+G:\www\trainning-balta-asp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+G:\www\trainning-balta-asp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+G:\www\trainning-balta-asp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+G:\www\trainning-balta-asp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+G:\www\trainning-balta-asp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache

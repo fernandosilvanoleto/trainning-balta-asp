@@ -1,0 +1,13 @@
+G:\www\trainning-balta-asp\AppExtra\bin\Debug\netcoreapp3.1\AppExtra.exe
+G:\www\trainning-balta-asp\AppExtra\bin\Debug\netcoreapp3.1\AppExtra.deps.json
+G:\www\trainning-balta-asp\AppExtra\bin\Debug\netcoreapp3.1\AppExtra.runtimeconfig.json
+G:\www\trainning-balta-asp\AppExtra\bin\Debug\netcoreapp3.1\AppExtra.runtimeconfig.dev.json
+G:\www\trainning-balta-asp\AppExtra\bin\Debug\netcoreapp3.1\AppExtra.dll
+G:\www\trainning-balta-asp\AppExtra\bin\Debug\netcoreapp3.1\AppExtra.pdb
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.csprojAssemblyReference.cache
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.AssemblyInfoInputs.cache
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.AssemblyInfo.cs
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.csproj.CoreCompileInputs.cache
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.dll
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.pdb
+G:\www\trainning-balta-asp\AppExtra\obj\Debug\netcoreapp3.1\AppExtra.genruntimeconfig.cache
